@@ -17,7 +17,9 @@ To study stratification among scientists, we reconstruct the career-long traject
 **Keywords**:
 bibliometric data; research productivity; scientific collaboration; scientific mobility; scholarly impact and citations
 
-**DOI**: YYYYYYY-YYYYY
+**DOI**:
+[![DOI](https://zenodo.org/badge/819806358.svg)](https://zenodo.org/doi/10.5281/zenodo.12527943)
+
 
 **Journal**: Nature Humanities and Social Sciences Communications
 
