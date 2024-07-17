@@ -17,7 +17,9 @@ To study stratification among scientists, we reconstruct the career-long traject
 **Keywords**:
 bibliometric data; research productivity; scientific collaboration; scientific mobility; scholarly impact and citations
 
-**DOI**:
+**Paper's DOI**: [https://doi.org/10.1057/s41599-024-03402-w](https://doi.org/10.1057/s41599-024-03402-w)
+
+**Dataset's DOI**:
 [![DOI](https://zenodo.org/badge/819806358.svg)](https://zenodo.org/doi/10.5281/zenodo.12527943)
 
 
@@ -26,27 +28,30 @@ bibliometric data; research productivity; scientific collaboration; scientific m
 **How to cite**:
 
 ```
-Akbaritabar, A., Castro Torres, A. F., & Larivière, V. (2023). A global perspective on the social structure of science (WP-2023-029; 0 ed., p. WP-2023-029). Max Planck Institute for Demographic Research. https://doi.org/10.4054/MPIDR-WP-2023-029
+Akbaritabar, A., Castro Torres, A.F. & Larivière, V. A global perspective on social stratification in science. Humanit Soc Sci Commun 11, 914 (2024). https://doi.org/10.1057/s41599-024-03402-w
 
 ```
 
 ```bibtex
 
-@techreport{akbaritabar2023GlobalPerspectiveSocial,
-  title = {A Global Perspective on the Social Structure of Science},
-  author = {Akbaritabar, Aliakbar and Castro Torres, Andr{\'e}s F. and Larivi{\`e}re, Vincent},
-  year = {2023},
-  month = may,
-  edition = {0},
-  number = {WP-2023-029},
-  pages = {WP-2023-029},
-  address = {Rostock},
-  institution = {Max Planck Institute for Demographic Research},
-  doi = {10.4054/MPIDR-WP-2023-029},
-  urldate = {2023-06-10},
-  copyright = {All rights reserved},
-  langid = {english}
+@article{akbaritabar2024GlobalPerspectiveSocial,
+  title = {A Global Perspective on Social Stratification in Science},
+  author = {Akbaritabar, Aliakbar and Castro Torres, Andr{\'e}s Felipe and Larivi{\`e}re, Vincent},
+  year = {2024},
+  month = jul,
+  journal = {Humanities and Social Sciences Communications},
+  volume = {11},
+  number = {1},
+  pages = {1--10},
+  publisher = {Palgrave},
+  issn = {2662-9992},
+  doi = {10.1057/s41599-024-03402-w},
+  abstract = {To study stratification among scientists, we reconstruct the career-long trajectories of 8.2 million scientists worldwide using 12 bibliometric measures of productivity, geographical mobility, collaboration, and research impact. While most previous studies examined these variables in isolation, we study their relationships using Multiple Correspondence and Cluster Analysis. We group authors according to their bibliometric performance and academic age across six macro fields of science, and analyze co-authorship networks and detect collaboration communities of different sizes. We found a stratified structure in terms of academic age and bibliometric classes, with a small top class and large middle and bottom classes in all collaboration communities. Results are robust to community detection algorithms used and do not depend on authors' gender. These results imply that increased productivity, impact, and collaboration are driven by a relatively small group that accounts for a large share of academic outputs, i.e., the top class. Mobility indicators are the only exception with bottom classes contributing similar or larger shares. We also show that those at the top succeed by collaborating with various authors from other classes and age groups. Nevertheless, they are benefiting disproportionately from these collaborations which may have implications for persisting stratification in academia.},
+  copyright = {2024 The Author(s)},
+  langid = {english},
+  keywords = {Science,Sociology,technology and society}
 }
+
 
 ```
 
